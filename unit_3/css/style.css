@@ -1,0 +1,42 @@
+body{
+	text-align: center;
+	background-color: rgba(0,0,0,0.5);
+	font-family: Helvetica;
+	color:#fff;
+
+}
+
+h1 {
+	font-style: bold;
+}
+
+hr{
+	width: 200px;
+}
+
+p{
+	font-size: 22px;
+}
+
+img{
+	size:400px;
+}
+
+ul{
+	font-size: 18px;
+	font-style: bold;
+}
+li{
+	text-align: center;
+}
+
+a{
+	font-size:20px;
+}
+
+
+#slogan{
+	font-style:italic; ;
+	text-align: center;
+	font-size: 18px;
+}
